@@ -22,5 +22,6 @@ AI-powered corporate assistant built with **Spring Boot**, **n8n workflows**, an
 3. Access frontend UI, ask company-related questions, and get dynamic AI responses.
 
 ## Screenshots
-<img width="1265" height="980" alt="Screenshot 2026-02-11 173824" src="https://github.com/user-attachments/assets/53f00ecc-7f00-4dea-95e0-6caf1a83e901" />
 <img width="1262" height="376" alt="image" src="https://github.com/user-attachments/assets/b1745e86-aea2-46a9-9f14-d182924a63bd" />
+<img width="1265" height="980" alt="Screenshot 2026-02-11 173824" src="https://github.com/user-attachments/assets/53f00ecc-7f00-4dea-95e0-6caf1a83e901" />
+
